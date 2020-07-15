@@ -25,6 +25,18 @@
     "longitude": 2.330664
   },
   {
+    "name": "Byciclo ",
+    "url": "www.byciclo.es",
+    "mail": "info@byciclo.es",
+    "city": "Sevilla",
+    "country": "es",
+    "latitude": 37.409,
+    "longitude": -5.9995,
+    "text": {
+      "en": "<p>Byciclo is the result of a collaboration between an Andaluz and a Breton who both wanted to get involved in the transformation of Seville into a more sustainable city.<p/> We provide a bike delivery service for local shops, artists, craftsmen, restaurants, small local producers and all kind of organizations transporting a large panel of goods. We are pleased to take part in the Coopcycle federation and get inspired by similar game changing projects in many other countries</p>"
+    }
+  },
+  {
     "name": "Les Coursiers Nantais",
     "facebook_url": "https://www.facebook.com/lescoursiersnantais/",
     "twitter_url": "https://twitter.com/coursiersnantes",

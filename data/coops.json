@@ -52,6 +52,27 @@
     }
   },
   {
+    "name": "Tours N Messengers",
+    "url": "https://www.toursnmessengers.fr/",
+    "facebook_url": "https://www.facebook.com/toursnmessengers/",
+    "mail": "tours.mes@gmail.com",
+    "city": "Tours",
+    "country": "fr",
+    "latitude": 47.383333,
+    "longitude": 0.683333,
+    }
+  },
+  {
+    "name": "Naofood",
+    "url": "https://naofood.fr/",
+    "facebook_url": "https://www.facebook.com/nao.food",
+    "city": "Nantes",
+    "country": "fr",
+    "latitude": 47.206472,
+    "longitude": -1.564297,
+    }
+  },
+  {
     "name": "La Poit’ à vélo",
     "url": "http://www.lapoitavelo.fr/",
     "coopcycle_url": "https://lapoitavelo.coopcycle.org",
